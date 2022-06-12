@@ -1,0 +1,51 @@
+# Dhiwaagar7.github.io
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="exp2.css">
+</head>
+<style>
+
+#l{
+  border: 2px solid black;
+  padding: 30px;
+}
+#f{
+  color:black;
+}
+img {
+  border: 5px solid red;
+}
+</style>
+<body>
+
+	<h1 > <center><u>PULSAR 150</u><h1>
+	<h2 id="l"> Life is short. So, grip it and rip it.<br>
+		Work hard in silence, let your “Bike” make all the noise.<br>
+		My Girlfriend told me to choose Her or My Bike. I miss her sometimes.<br> <h2>
+
+</body>
+	<p style="color:black;font-size: 60%">
+	 Pulsar 150 promises performance like none other. Enjoy class-leading 10.3 kW (14 PS) power and enhanced <br> 13.25 Nm 
+	torque with our patented DTS-i technology. Meet the sportiest 150 ever. This bike is loved for its aggressive dagger-edged graphics,<br> 
+	carbon fibre accents, and the iconic wolf-eyed headlamp.</p>
+
+	<img src= "pulsar.jpg"> <br>
+
+	<p> <center>For more details</p>
+
+	<a href="https://www.bikewale.com/bajaj-bikes/pulsar-150/"> CLICK HERE </a> 
+
+	<div id = "container"> 
+	 
+       <form id = "f"><center>
+       <p style= "color:black;"> WAS THIS USEFUL...  </p>
+       <input type="radio" name = "ans" value="yes"> Yes <br>
+       <input type="radio" name = "ans" value="no" > No <br><br>
+       <button type="button">Submit!</button>
+   </form>
+</div>
+
+</html>
